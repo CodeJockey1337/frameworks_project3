@@ -1,7 +1,7 @@
 =Assignment Three
-*C hoose a server-side web application framework other than rails and create an application using it. 
+* Choose a server-side web application framework other than rails and create an application using it. 
 * Create a paper and an approximately 25 minutes presentation/demonstration based on your findings. 
-* * The presentation/demonstrations will start in class on March 7th. Submit the paper here.
+* The presentation/demonstrations will start in class on March 7th. Submit the paper here.
 
 ==The form of your paper must be the following.
 ===Abstract/Executive Summary
