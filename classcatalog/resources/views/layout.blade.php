@@ -39,9 +39,7 @@
     <body>
         @yield('container')
         @yield('content')
+       <p> <a href= {!! route('libraries') !!} > Click here for libraries page</p>
+       <p> <a href= {!! route('books') !!} > Click here for books page</p>
     </body>
-    
-    <p>
-        {{ HTML::link('/libraries', 'Click here to go to the libraries page!') }}
-    </p>
 </html>

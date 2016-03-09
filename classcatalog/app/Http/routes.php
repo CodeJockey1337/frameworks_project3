@@ -21,9 +21,9 @@ Route::get('/', 'PagesController@home');
 
 Route::get('about', 'PagesController@about');
 
-Route::get('libraries', 'LibrariesController@index');
+Route::get('libraries', 'LibrariesController@index')->name('libraries');
 
-Route::get('books', 'BooksController@index');
+Route::get('books', 'BooksController@index')->name('books');
 
 //['people' => $people]); //or compact('people'), or =>with('people', $people)
 //    return view('welcome');
