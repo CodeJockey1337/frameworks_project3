@@ -7,4 +7,4 @@
         <li>Title: {{ $book->book_title }} </li>
         <li>Author: {{ $book->book_author }} </li>
     @endforeach
-@stop    
+@stop
